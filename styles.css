@@ -63,10 +63,12 @@ button{
     color:rgb(221, 221, 196) ;
     font-weight:600;
     border-radius: 6px;
+    cursor:pointer ;
     font-size: medium;
+   
     
 }
-a:visited{
+a:visited, a:link{
     color:rgb(221, 221, 196) ;
     text-decoration: none;
 
